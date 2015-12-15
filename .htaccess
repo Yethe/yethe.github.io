@@ -1,0 +1,4 @@
+RedirectMatch 404 ^/public/stylesheets/src/.*$
+RedirectMatch 404 .*\.scss$
+RedirectMatch 404 ^/img/$
+RedirectMatch 404 ^/img/[^/]*/$
